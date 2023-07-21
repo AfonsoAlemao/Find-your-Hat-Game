@@ -5,3 +5,14 @@ const hole = 'O';
 const fieldCharacter = '░';
 const pathCharacter = '*';
  
+console.log('helloworld')
+console.log('helloworld')
+console.log('helloworld')
+console.log('helloworld')
+console.log('helloworld')
+
+
+console.log('helloworld')
+console.log('helloworld')
+console.log('helloworld')
+console.log('helloworld')
