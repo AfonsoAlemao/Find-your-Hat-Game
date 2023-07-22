@@ -5,7 +5,6 @@ const hole = 'O';
 const fieldCharacter = '░';
 const pathCharacter = '*';
 
-
 class Field {
   constructor(array_2d) {
     this.array_2d = array_2d
@@ -88,3 +87,4 @@ if(end === 1) {
 } else {
   console.log('You win')
 }
+
